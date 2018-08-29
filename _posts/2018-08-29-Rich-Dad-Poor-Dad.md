@@ -3,11 +3,11 @@ layout:     post
 title:      Rich Dad Poor Dad
 date:       2018-08-29 21:32:18
 summary:    Review for the book Rich Dad Poor Dad
-categories: Book
+categories: 
+  - Book Review
 thumbnail: book
 tags: 
   - First Post
-  - Book Review
 ---
 
 Hello fellow readers, here I am with my first blog, which is for the book named “Rich Dad Poor Dad” by Robert Kiyosaki , this is a must read book for the people out there who want to start their own business, want to learn about financial intelligence, want to get rich, people  who are in a rat race and want to come out of that.  This is the most recommended book for millionaires.
