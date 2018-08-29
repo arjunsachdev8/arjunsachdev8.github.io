@@ -3,7 +3,7 @@ layout:     post
 title:      Rich Dad Poor Dad
 date:       2018-08-29 21:32:18
 summary:    Review for the book Rich Dad Poor Dad
-categories: Book Review
+categories: "Book Review"
 thumbnail: book
 tags: 
 ---
