@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Rich Dad Poor Dad
+title:      The Secret
 date:       2018-08-08 21:32:18
 summary:    Review for the book The Secret
 categories: 
