@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Secret
-date:       2018-08-08 21:32:18
+date:       2018-09-08 21:32:18
 summary:    Review for the book The Secret
 categories: 
   - Book
