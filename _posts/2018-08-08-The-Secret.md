@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Rich Dad Poor Dad
-date:       2018-09-09 21:32:18
+date:       2018-08-08 21:32:18
 summary:    Review for the book The Secret
 categories: 
   - Book
@@ -10,7 +10,7 @@ tags:
   - Second Post
 ---
 
-Hello fellow readers I am back with my next blog, which is for the book named ìThe Secretî by Rhonda Byrne , this is a must read book for the people out there who want to live a prosperous and lavish lifestyle and many more things which you can visualize. This book being one of the best seller is recommended to people who want to eradicate issues out of their lives. Read it and I am sure you will have a greater insight to look through difficulties. <br />
+Hello fellow readers I am back with my next blog, which is for the book named ‚ÄúThe Secret‚Äù by Rhonda Byrne , this is a must read book for the people out there who want to live a prosperous and lavish lifestyle and many more things which you can visualize. This book being one of the best seller is recommended to people who want to eradicate issues out of their lives. Read it and I am sure you will have a greater insight to look through difficulties. <br />
 
 ## About the book <br />
 
