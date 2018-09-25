@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     How to win friends and Influence People
+title:      How to win friends and Influence People
 date:       2018-09-09 21:32:18
 summary:    Review for the book How to win friends and Influence People
 categories: 
@@ -10,7 +10,7 @@ tags:
   - Third Post
 ---
 
-Hello fellow readers I am back with my next blog, which is for the book named “How to win friends and influence people” by Dale Carnegie , this is a must read book for the individuals who seek to master the social skills, how to win conversations and also to attract more frineds. This book being one of the best seller is recommended to people who wish to be great influencers. This book is very close to my heart because I have learned many things from it. Read it and I am sure you will develop awesome people skills. <br />
+Hello fellow readers I am back with my next blog, which is for the book named 'How to win friends and influence people' by Dale Carnegie , this is a must read book for the individuals who seek to master the social skills, how to win conversations and also to attract more frineds. This book being one of the best seller is recommended to people who wish to be great influencers. This book is very close to my heart because I have learned many things from it. Read it and I am sure you will develop awesome people skills. <br />
 
 ## About the book <br />
 
