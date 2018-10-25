@@ -11,7 +11,7 @@ google_analytics: #"UA-20365477-4"
 disqus_account: #cartenoire
 github_repository: https://github.com/arjunsachdev8/arjunsachdev8.github.io
 addthis_id: #ra-513c6fa83da6ec67
-post_limit: 5
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username: #_jacobtomlinson
