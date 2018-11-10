@@ -18,5 +18,6 @@ Hello fellow readers I am back with my next blog, which is for the book named 'H
 This book is interesting because the author conveys his messages through real life examples which he or some of his friends had faced during the years, one of them being to praise somebody. We are always ready to criticize people but we rarely praise, by logic vice versa should happen, these are the things which we know but we ignore to follow. The author says how to follow these things in our daily routine that these things start to strike in your mind. <br />  
 The best thing this book teaches is how to let the other person whom you want to influence or befriend speak and how to think from his point of view. While reading this book the author makes you to think about the scenario and get involved. I surely believe this has helped me in getting to know things better .<br />  
 This book is suggested to all those individuals who want to become a master at people skills and attract friends.<br />
+
+Thanks !<br />
 To buy this book - https://amzn.to/2RNJcvv
-Thanks !
