@@ -5,7 +5,7 @@ description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: #"http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "Hello there! I'm Arjun Sachdev, Petroleum Engineer from MIT, Pune. I am an engineer by profession and an avid reader by passion which makes me write blogs about various books that I would suggest to people. So fellow readers , please come and read my blogs."
-title_image: https://media.licdn.com/dms/image/C5103AQHIceDjkr8V0w/profile-displayphoto-shrink_800_800/0?e=1542844800&v=beta&t=gCP66aG58arNfvy7-B1ovoBPac1VckCfN2i6xXk_YXM
+title_image: https://media.licdn.com/dms/image/C5103AQHIceDjkr8V0w/profile-displayphoto-shrink_800_800/0?e=1560988800&v=beta&t=RfYiyb68hELBpZleOyxLd9d0dsLSdPuxFJPX8toxLRc
 #https://media.licdn.com/dms/image/C5103AQHIceDjkr8V0w/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=ioNCBeSVVBYyMSivan0Rxgx6IDW480-DuXQ8X0Lnr1E
 google_analytics: #"UA-20365477-4"
 disqus_account: #cartenoire
